@@ -1,0 +1,5 @@
+kafka-python
+pandas
+psycopg2-binary
+pyspark
+streamlit
